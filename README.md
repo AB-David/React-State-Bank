@@ -7,7 +7,8 @@ A banking application which demonstrates a full and in-depth dive to React's sta
 
 Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
 
-Screenshots: Screenshots or a GIF of your project in action.
+## Demo
+![demo](https://bit.ly/2Wjmnb4)
 
 ### Technology used :
 MERN stack- Mongo, React, Express Node.
@@ -20,7 +21,7 @@ MERN stack- Mongo, React, Express Node.
 - [ ] Check Balance
 
 ### Future improvements: 
-Currently, the app allows users to preform all banking tasks by managing state on the client's side in oreder to demonstrate how powerful React can be. As I add additional layers of security, future features will modify it into a full stack app using mongoDB and Google firebase as the back-end.
+Currently, the app allows users to preform all of their banking tasks by managing state on the client's side in oreder to demonstrate how powerful React can be. As I add additional layers of security, future features will modify it into a full stack app using mongoDB and Google firebase as the back-end.
 
 License: [MIT](https://choosealicense.com/licenses/mit/#)
 
