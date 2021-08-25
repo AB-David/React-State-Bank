@@ -8,7 +8,7 @@ A banking application which demonstrates a full and in-depth dive to React's sta
 Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
 
 ## Demo
-![demo](https://bit.ly/2Wjmnb4)
+![demo](https://bit.ly/38fjYjM)
 
 ### Technology used :
 MERN stack- Mongo, React, Express Node.
