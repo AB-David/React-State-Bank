@@ -1,6 +1,7 @@
 ![MIT logo](https://bit.ly/2MonZuG)
 
 # React-State-Bank
+This is one of the projects I was working on to get my professional software engineering certification in Full Stack Development by MIT xPro. If you are curious about this rigorous program you can learn more about it here.
 
 ## Description: 
 A banking application which demonstrates a full and in-depth dive to React's state capabilities in regards to reusable components, managing validation and state. The app allows users to sign up, login/out, preform financial transactions and keeps track of thier balance. 
