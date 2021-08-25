@@ -14,11 +14,11 @@ Installation Guidelines: Clear instructions on how to get your project up and ru
 MERN stack- Mongo, React, Express Node.
 
 ### Features: 
-- [ ] Create Account
-- [ ] Login/Logout
-- [ ] Deposit
-- [ ] Withdrawl
-- [ ] Check Balance
+- [x] Create Account
+- [x] Login/Logout
+- [x] Deposit
+- [x] Withdrawl
+- [x] Check Balance
 
 ### Future improvements: 
 Currently, the app allows users to preform all of their banking tasks by managing state on the client's side in oreder to demonstrate how powerful React can be. As I add additional layers of security, future features will modify it into a full stack app using mongoDB and Google firebase as the back-end.
